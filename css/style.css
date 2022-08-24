@@ -1,0 +1,10 @@
+.Cimage:hover{
+    opacity: 0.9;
+    border-radius: 10%;
+    background-color: aqua;
+}
+.GitHubLogo{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 950px;
+}
